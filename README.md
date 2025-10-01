@@ -1,2 +1,73 @@
 # Cinematiga-Project
-web
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Latihan Insert Gambar</title>
+  </head>
+  <body bgcolor="orange"style="color:white; font-family:Arial; line-height:1.6;">
+   <center>
+    <h1>Cinematiga Studio</h1>
+    <hr>
+    <img src="WhatsApp Image 2025-10-01 at 07.59.29_4e47ae4a.jpg" width="150px" height="150px"style="border-radius:10px;">
+    <p>
+      Ini kami, <b>Cinematiga.</b> Dan ini adalah kisah perjalanan kecil kami.
+    </p>
+     <audio controls autoplay loop>
+        <source src="Hindia - Kita ke Sana (Official Lyric Video) - Hindia.mp3" type="audio/mp3">
+            Your browser does not support the audio element.
+        </audio>
+        </center>
+    
+
+            
+<p>
+<b>Cinematiga: Dari Diremehkan Menjadi Bukti Nyata</b><br><br>
+
+Di sebuah sudut sekolah, lahirlah sebuah tim kecil yang penuh mimpi besar. Tim itu kami namai Cinematiga. Nama itu bukan sekadar gabungan kata, tapi simbol dari 3 tahun kebersamaan kami. Kami percaya, meski kecil, langkah kami bisa meninggalkan jejak.
+
+Awalnya, impian itu hanya berupa obrolan ringan: bagaimana kalau kita membuat karya sebelum lulus? Tapi obrolan itu berubah jadi tekad. Kami menyiapkan konsep, menulis naskah, lalu mengumpulkan keberanian. Hingga akhirnya, lahirlah perjalanan untuk membuat karya yang akan menjadi bukti siapa sebenarnya kami.
+
+Namun, perjalanan tidak selalu mulus. Saat ide itu kami jalankan, beberapa guru menanggapinya dengan senyum sinis. “Film kalian? Ah, paling hanya main-main anak sekolah,” ucap salah seorang guru. Kata-kata itu menusuk, membuat semangat kami hampir runtuh. Seolah mimpi ini terlalu tinggi untuk kami raih.
+
+Tapi justru di titik itulah Cinematiga diuji. Alih-alih menyerah, kami memilih untuk bekerja lebih keras. Kami belajar teknik kamera dari internet, mencoba mengedit hingga larut malam, bahkan rela mengulang adegan berulang kali demi hasil terbaik. Saling menyemangati saat salah satu merasa lelah menjadi kekuatan terbesar kami.
+
+Karya pertama kami selesai—sederhana, tapi penuh jiwa. <br><br>
+</p>
+<h3>Saksikanlah Teacher day! </h3>
+                    
+
+<video width="320" height="240" controls>
+<source src="SELAMAT HARI GURU 2023  SMK MUHAMMADIYAH 3 TANGERANG SELATAN - MUHTIGA OFFICIAL (720p, h264).mp4" type="video/mp4">
+Your browser does not support the video tag.
+  </video>
+
+<p> 
+Disusul karya kedua yang lebih matang, dengan cerita yang lebih menyentuh, dan alur yang sudah direncanakan sedemikian rupa sekaligus mengikuti lomba olimpiade bandung se-Indonesia dan Alhamdulillah puji syukur kepada Allah SWT kami menduduki peringkat 6 besar 
+</p>
+
+<h3>Saksikanlah, Arkana!</h3>
+
+<video width="320" height="240" controls>
+<source src="ARKANA  SMK MUHAMMADIYAH 3 TANGSEL  OlympicAD NASIONAL VII 2024 - MUHTIGA OFFICIAL (720p, h264).mp4"type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<p>  
+Dan puncaknya, film ketiga menjadi karya yang membuat banyak orang terdiam, lalu bertepuk tangan. Perlahan, mereka yang dulu meremehkan mulai membuka mata. Membuat memori terakhir yang kita jalani selama 3 tahun. Banyak pelajaran yang bisa diambil salah satunya apa itu arti berusaha.
+</p>
+<h3>Saksikanlah, Ceremony 2024!</h3>
+
+<video width="320" height="240" controls>
+<source src="CEREMONY 2024  SMK MUHAMMADIYAH 3 TANGERANG SELATAN - MUHTIGA OFFICIAL (720p, h264).mp4"type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+                
+                
+<p> <b> <br><br>Ini hanya keluarga kecil yang berani bermimpi, berani gagal, dan berani membuktikan.<br><br>
+
+Perjalanan ini mengajarkan kami satu hal: jangan pernah takut diremehkan. Karena kadang, keraguan orang lain justru bahan bakar untuk membuat mimpi menjadi nyata.</b> </p>
+
+</body>
+</html>
